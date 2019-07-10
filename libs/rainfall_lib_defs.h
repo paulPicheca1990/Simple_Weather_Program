@@ -1,0 +1,9 @@
+#ifndef __RAINFALL_LIB_DEFS_H__
+#define __RAINFALL_LIB_DEFS_H__
+
+#define MAX_MONTHS 12
+#define MAX_YEARS 5
+#define MAX_NUMBER 300
+#define CURRENT_YEAR 2019
+
+#endif //__RAINFALL_LIB_DEFS_H__
